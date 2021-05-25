@@ -2,6 +2,7 @@ name: ntp
 description: Fetch accurate time or current DateTime object from (NTP) Network Time Protocol server.
 version: 1.0.7
 homepage: https://github.com/knezzz/ntp
+publish_to: none
 
 environment:
   sdk: ">=2.6.0 <3.0.0"
